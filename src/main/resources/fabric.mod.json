@@ -3,13 +3,13 @@
 	"id": "unbreaking-anvils",
 	"version": "${version}",
 	"name": "Unbreaking Anvils",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Gamerule toggles for anvil damage",
 	"authors": [
 		"0xEFF"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/project/unbreaking-anvils",
+		"sources": "https://github.com/hecksadecimal/Unbreaking-Anvils"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/unbreaking-anvils/icon.png",
