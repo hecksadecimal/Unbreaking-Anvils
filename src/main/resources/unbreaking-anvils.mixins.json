@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "ing.ichor.unbreaking_anvils.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"server": [
+		"AnvilScreenHandlerMixin",
+		"FallingBlockEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
