@@ -12,7 +12,7 @@ When false, prevents anvils from being damaged by use.
 
 
 ### doAnvilFallBreakage (default: true)
-When false, prevents anvils from being damaged from falling from a great height.
+When false, prevents anvils from being damaged by falling from a great height.
 
 ```
 /gamerule doAnvilFallBreakage false
